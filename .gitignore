@@ -5,3 +5,6 @@ node_modules
 
 # But include the "images" folder itself
 !/images/.gitkeep
+
+/pdf/*
+!/pdf/.gitkeep
