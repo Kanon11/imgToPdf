@@ -1,10 +1,11 @@
 node_modules
 
-# Ignore all files and subfolders inside the "images" folder
-/images/*
+# Ignore all content inside the "public/images" directory
+/public/images/*
 
-# But include the "images" folder itself
-!/images/.gitkeep
+# Except for the .gitignore file itself
+!/public/images/.gitignore
 
-/pdf/*
-!/pdf/.gitkeep
+
+/public/pdf/*
+!/public/pdf/.gitkeep
