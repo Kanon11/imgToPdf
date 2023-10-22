@@ -1,1 +1,7 @@
 node_modules
+
+# Ignore all files and subfolders inside the "images" folder
+/images/*
+
+# But include the "images" folder itself
+!/images/.gitkeep
