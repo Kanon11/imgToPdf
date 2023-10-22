@@ -1,5 +1,7 @@
-```
 ## Run the application to your local machine
+
+```sh
+
 
 #Download the code base to your machine
 git clone https://github.com/Kanon11/imgToPdf.git
