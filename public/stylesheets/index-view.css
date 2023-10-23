@@ -6,6 +6,8 @@ div img {width: 200px;height:200px;object-fit: contain;padding: 10px;background-
 
 p a.download {background-color: black;display:none;}
 
+p a.cpoyright {text-decoration: underline; color: black; background-color: white; padding: 0;font-size:15pt;}
+
 span.loader {display:none;border: 5px solid black;border-top: 5px solid white;border-radius:50%;width: 25px;height: 25px;animation: spin 0.5s linear infinite;}
 	
 	
